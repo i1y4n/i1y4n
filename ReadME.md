@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟Introducing my Name is Alfian <br>⚡I'm Currently Working On my JavaScript Projects<br>🔭I'm A Part Time Free Lancer<br>🔥Still Learning 
+🌟Introducing my Name is Alfian <br>⚡I'm Currently Working On my JavaScript Projects<br>🔭I'm A Part Time Free Lancer<br>🔥Still Learning <br>📧Get In Touch With Me At alfianmaulana1045@gmail.com
 
 
 ## 🌐 Socials:
